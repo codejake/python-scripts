@@ -1,6 +1,6 @@
 # Jake's Python Scripts
 
-Some janky Python scripts.
+Some janky Python scripts posted publicly.
 
 ## Files
 
