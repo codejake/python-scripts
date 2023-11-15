@@ -1,6 +1,6 @@
 # Jake's Python Scripts
 
-Some utility scripts suitable for public use.
+Some janky Python scripts.
 
 ## Files
 
