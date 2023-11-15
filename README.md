@@ -11,3 +11,5 @@ Does Ethernet OUI lookups.
 ### colorize
 
 Colorizes strings in an ANSI-compatible terminal.
+
+![colorize.py](assets/colorize.jpg)
