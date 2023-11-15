@@ -6,7 +6,7 @@ Some utility scripts suitable for public use.
 
 ### oui
 
-Does Ethernet OUI lookups.
+Does Ethernet OUI lookups if you have Wireshark installed on your system.
 
 ### colorize
 
