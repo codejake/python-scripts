@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# https://en.wikipedia.org/wiki/ANSI_escape_code
+
 
 def colorize(color_code, s):
     return f"\033[{color_code}m{s}\033[0m"
